@@ -1,5 +1,5 @@
 This is Lab №5 from Mobile Systems Development.
-Author: Artem Sevruk, group IV-71, variant = **7120 % 6 == 4**
+Author: Artem Sevruk, group IV-71, **variant = 7120 % 6 == 4**
 ____
 
 During completing this #5 Lab I haven't faced any serious or valuable problem.
