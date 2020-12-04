@@ -6,7 +6,9 @@ Required custom collection layout:
 ![Image alt](lab5_variant4_required_layout.png)
 
 _____
-During completing this #5 Lab I haven't faced any serious or valuable problem.
+During completing this #5 Lab I haven't faced any serious or valuable problem:
+
+* Minimal spacing between collection view cells. How do I do that?
 
 Don't pay attention to #6 Lab completed as well. It is just that I forgot to commit the project immediately after #5 Lab has been done.
 
